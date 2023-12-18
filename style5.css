@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(178, 154, 217, 0.408);
+}
+
+h2 {
+    color: rgba(124, 64, 220, 0.951);
+}
+
+.p1 {
+    color: rgba(124, 64, 220, 0.951);
+    letter-spacing: 10px;
+    font-size: 18px;
+}
+
+.p2 {
+    border: 3px solid orange;
+    background-color: white;
+    border-radius: 10px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+h4 {
+    color: rgba(124, 64, 220, 0.951);
+}
+
+button {
+    background-color: rgba(124, 64, 220, 0.951);
+    color: white;
+    font-size: 18px;
+}
